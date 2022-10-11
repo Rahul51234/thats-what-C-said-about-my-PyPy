@@ -1,0 +1,5 @@
+for n in range (0,4):
+    if n == 2:
+        break
+    print(n)
+print("finished with n =" ,n)   
